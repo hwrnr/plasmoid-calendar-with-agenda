@@ -1,4 +1,6 @@
 # plasmoid-calendar-with-agenda
+MOST OF THE WORK WAS DONE BY THE ORIGINAL PLASMOID AUTHORS, I DID VERY LITTLE!
+
 Clone of the default plasma6 Digital Clock plasmoid, but some style changes and layout changes.
 
 Specifically wanted to make this useable on the desktop and have an agenda on the calendar.
