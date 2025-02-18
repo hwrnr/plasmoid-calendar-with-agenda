@@ -1,0 +1,26 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "interknighterrant+web@gmail.com",
+                "Name": "Micah Knight"
+            }
+        ],
+        "BugReportUrl": "https://github.com/interknighterrant/plasmoid-calendar-with-agenda/issues",
+        "Category": "Date and Time",
+        "Description": "The calendar view from the KDE digitalclock plasmoid, for use on desktop and with some style changes.",
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "office-calendar",
+        "Id": "com.github.interknighterrant.plasmoid-calendar-agenda",
+        "License": "GPL-2.0+",
+        "Name": "Calendar with Agenda",
+        "Website": "https://github.com/interknighterrant/plasmoid-calendar-with-agenda"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.date"
+    ]
+}
