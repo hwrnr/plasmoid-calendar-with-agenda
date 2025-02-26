@@ -1,5 +1,6 @@
 # plasmoid-calendar-with-agenda
 MOST OF THE WORK WAS DONE BY THE ORIGINAL PLASMOID AUTHORS, I DID VERY LITTLE!
+SEE: https://invent.kde.org/plasma/plasma-workspace/-/tree/master/applets/digital-clock/package?ref_type=heads
 
 Highly based upon the default plasma6 Digital Clock plasmoid, but with some minor style changes and layout changes.  Specifically:
 - Calendar is the desktop applet, not the clock
