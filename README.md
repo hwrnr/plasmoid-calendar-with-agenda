@@ -2,6 +2,9 @@
 MOST OF THE WORK WAS DONE BY THE ORIGINAL PLASMOID AUTHORS, I DID VERY LITTLE!
 SEE: https://invent.kde.org/plasma/plasma-workspace/-/tree/master/applets/digital-clock/package?ref_type=heads
 
+In the original project source code, the license is: GPL-2.0-only OR GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL
+Any code here is also the same license.
+
 Highly based upon the default plasma6 Digital Clock plasmoid, but with some minor style changes and layout changes.  Specifically:
 - Calendar is the desktop applet, not the clock
 - Switched agenda to below calendar, instead of on the side
