@@ -35,7 +35,7 @@ import org.kde.kirigami as Kirigami
 PlasmoidItem {
     id: calendar
 
-    Plasmoid.backgroundHints: "NoBackground"
+    Plasmoid.backgroundHints: PlasmaCore.Types.ShadowBackground | PlasmaCore.Types.ConfigurableBackground
 
     // TODO - delete this?: readonly property var appletInterface: root
 
